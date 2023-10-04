@@ -41,3 +41,5 @@
 ## Connecting to Application Instance via Bastion(which use private subnet)
 ![image](https://github.com/mohamedamr99t/Terraform-Lab-1/assets/139065575/81fa418f-281a-49be-aaa7-3525f9cb134e)
 ![image](https://github.com/mohamedamr99t/Terraform-Lab-1/assets/139065575/7c29b7a4-4389-4ed6-b9ea-7995f18db939)
+##Destroy the IaC
+![image](https://github.com/mohamedamr99t/Terraform-Lab-1/assets/139065575/7cbf2804-79e5-40ce-98f4-8e393b818ec1)
